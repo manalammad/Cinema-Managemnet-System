@@ -2,6 +2,7 @@
 This project is a simulation of a Cinema Management System implemented using SQL for database management. It includes functionalities for managing cinema operations such as employee management, room and seat allocation, food services, scheduling movie screenings, and handling customer reservations.
 
 Features
+
 Employee Management: Manages employees across different roles (managers, assistants, janitorial staff, snack bar staff) and branches.
 Room and Seat Management: Allocates cinema halls and seats across multiple branches and cities.
 Food Services: Tracks food items available at the cinema, including prices, for each branch.
